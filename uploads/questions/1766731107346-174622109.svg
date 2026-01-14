@@ -1,0 +1,9 @@
+<svg width="360" height="60" viewBox="0 0 360 60" xmlns="http://www.w3.org/2000/svg">
+  <style>.c{fill:#fff;stroke:#000;stroke-width:2}.t{font-family:Arial;font-size:22px;text-anchor:middle;dominant-baseline:middle}</style>
+  <rect class="c" x="0" y="0" width="60" height="60"/><text class="t" x="30" y="30">12</text>
+  <rect class="c" x="60" y="0" width="60" height="60"/><text class="t" x="90" y="30">9</text>
+  <rect class="c" x="120" y="0" width="60" height="60"/><text class="t" x="150" y="30">4</text>
+  <rect class="c" x="180" y="0" width="60" height="60"/><text class="t" x="210" y="30">18</text>
+  <rect class="c" x="240" y="0" width="60" height="60"/><text class="t" x="270" y="30">6</text>
+  <rect class="c" x="300" y="0" width="60" height="60"/><text class="t" x="330" y="30">19</text>
+</svg>

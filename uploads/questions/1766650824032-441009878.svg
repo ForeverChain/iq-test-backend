@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <rect width="100%" height="100%" fill="white"/>
+  <g font-family="Times New Roman, Cambria, serif" font-size="36" fill="black">
+    <text x="400" y="80" text-anchor="middle">12593  is to  35291</text>
+    <text x="400" y="140" text-anchor="middle">and  29684  is to  46982</text>
+    <text x="400" y="220" text-anchor="middle">therefore  72936  is to  ?</text>
+  </g>
+</svg>

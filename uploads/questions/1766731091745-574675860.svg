@@ -1,0 +1,75 @@
+<svg width="1040" height="160" viewBox="0 0 1040 160" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .cell { fill: #fff; stroke: #000; stroke-width: 2; }
+    .text {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 26px;
+      fill: #000;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+  </style>
+
+  <!-- Top row -->
+  <rect class="cell" x="0" y="0" width="80" height="80"/>
+  <rect class="cell" x="80" y="0" width="80" height="80"/>
+  <rect class="cell" x="160" y="0" width="80" height="80"/>
+  <rect class="cell" x="240" y="0" width="80" height="80"/>
+  <rect class="cell" x="320" y="0" width="80" height="80"/>
+  <rect class="cell" x="400" y="0" width="80" height="80"/>
+
+  <!-- Black cell -->
+  <rect x="480" y="0" width="80" height="160" fill="#000"/>
+
+  <rect class="cell" x="560" y="0" width="80" height="80"/>
+  <rect class="cell" x="640" y="0" width="80" height="80"/>
+  <rect class="cell" x="720" y="0" width="80" height="80"/>
+  <rect class="cell" x="800" y="0" width="80" height="80"/>
+  <rect class="cell" x="880" y="0" width="80" height="80"/>
+  <rect class="cell" x="960" y="0" width="80" height="80"/>
+
+  <!-- Bottom row -->
+  <rect class="cell" x="0" y="80" width="80" height="80"/>
+  <rect class="cell" x="80" y="80" width="80" height="80"/>
+  <rect class="cell" x="160" y="80" width="80" height="80"/>
+  <rect class="cell" x="240" y="80" width="80" height="80"/>
+  <rect class="cell" x="320" y="80" width="80" height="80"/>
+  <rect class="cell" x="400" y="80" width="80" height="80"/>
+
+  <rect class="cell" x="560" y="80" width="80" height="80"/>
+  <rect class="cell" x="640" y="80" width="80" height="80"/>
+  <rect class="cell" x="720" y="80" width="80" height="80"/>
+  <rect class="cell" x="800" y="80" width="80" height="80"/>
+  <rect class="cell" x="880" y="80" width="80" height="80"/>
+  <rect class="cell" x="960" y="80" width="80" height="80"/>
+
+  <!-- Numbers top -->
+  <text class="text" x="40" y="40">14</text>
+  <text class="text" x="120" y="40">27</text>
+  <text class="text" x="200" y="40">56</text>
+  <text class="text" x="280" y="40">18</text>
+  <text class="text" x="360" y="40">76</text>
+  <text class="text" x="440" y="40">32</text>
+
+  <text class="text" x="600" y="40">68</text>
+  <text class="text" x="680" y="40">64</text>
+  <text class="text" x="760" y="40">71</text>
+  <text class="text" x="840" y="40">19</text>
+  <text class="text" x="920" y="40">25</text>
+  <text class="text" x="1000" y="40">49</text>
+
+  <!-- Numbers bottom -->
+  <text class="text" x="40" y="120">5</text>
+  <text class="text" x="120" y="120">9</text>
+  <text class="text" x="200" y="120">11</text>
+  <text class="text" x="280" y="120">9</text>
+  <text class="text" x="360" y="120">13</text>
+  <text class="text" x="440" y="120">5</text>
+
+  <text class="text" x="600" y="120">?</text>
+  <text class="text" x="680" y="120">?</text>
+  <text class="text" x="760" y="120">?</text>
+  <text class="text" x="840" y="120">?</text>
+  <text class="text" x="920" y="120">?</text>
+  <text class="text" x="1000" y="120">?</text>
+</svg>

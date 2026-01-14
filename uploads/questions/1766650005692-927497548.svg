@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
+  <rect width="100%" height="100%" fill="white"/>
+  <g font-family="Times New Roman, serif" font-size="48" fill="black">
+    <text x="50" y="80">Ω # − Ω Ω # # − ? Ω # − Ω Ω # # − = # Ω #</text>
+    <text x="50" y="150">− Ω Ω # # − ? Ω # − Ω Ω # # − = # Ω # − Ω</text>
+    <text x="50" y="220">Ω # # − ? Ω # − Ω Ω # # − Ω # − Ω Ω # # − ?</text>
+    <text x="50" y="290">Ω # − Ω Ω # # − = #</text>
+  </g>
+</svg>
